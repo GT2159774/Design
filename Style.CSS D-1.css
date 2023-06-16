@@ -1,0 +1,17 @@
+body {
+    background-color: crimson;
+    margin: 0%;
+    padding: 0%;
+}
+h2 {
+    size: 30cm;
+    color: aqua;
+}
+.container {
+font-size: larger;
+}
+div p {
+
+    text-align: center
+    ;
+}
