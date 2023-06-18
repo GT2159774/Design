@@ -10,8 +10,10 @@ h2 {
 .container {
 font-size: larger;
 }
-div p {
+div>p {
 
-    text-align: center
-    ;
+    text-align: center;
+}
+div{
+    display: flex
 }
